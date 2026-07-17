@@ -83,10 +83,9 @@ For a live, interactive experience with full filtering and drill-down, view the 
 
 ## How to Use
 
-1. Download Calls Overview - Sallah - Power BI
-2. Open with Power BI Desktop
-3. Refresh data connections (if applicable)
-4. Use the slicers on the left panel to filter by agent, project, month, or day
+1. Open with Power BI Desktop
+2. Refresh data connections (if applicable)
+3. Use the slicers on the left panel to filter by agent, project, month, or day
 
 ## Repository Structure
 
