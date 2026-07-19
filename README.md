@@ -2,6 +2,8 @@
 
 An interactive Power BI dashboard built to monitor and analyze Sallah call center performance across daily and monthly operations. It tracks core KPIs — Service Level, Handling Ratio, Abandon Rate, and ASA — with drill-down by agent and project.
 
+Live Report: [Calls Overview - Sallah - Power BI](https://app.powerbi.com/groups/me/reports/6ef1df05-d80a-4c83-8442-936c06a07308/a098e974c53227019622?experience=power-bi)
+
 ## Tools & Skills Used
 
 - **Power BI Desktop** — data modeling, DAX measures, report design
@@ -59,8 +61,6 @@ Deep-dive into individual agent productivity and outcomes.
 ## Screenshots
 
 The screenshots below walk through the report's navigation and layout. The **Home** page serves as the landing screen, branded with the Sallah logo and navigation buttons that let users switch between **Calls Overview** and **Agent Performance**. The **Calls Overview** page summarizes center-wide metrics — Service Level, Handling Ratio, Abandon Rate, and ASA — alongside trends by month and project. The **Agent Performance** page breaks these metrics down by individual agent, with a drill-through view showing **ASA** and **Service Level** as gauge visuals when hovering over a specific data point.
-
-For a live, interactive experience with full filtering and drill-down, view the report directly in Power BI: [Calls Overview - Sallah - Power BI](https://app.powerbi.com/groups/me/reports/6ef1df05-d80a-4c83-8442-936c06a07308/a098e974c53227019622?experience=power-bi)
 
 ### Home
 ![Home](screenshots/home.png)
