@@ -58,10 +58,6 @@ Deep-dive into individual agent productivity and outcomes.
 - **Day Name** — Sunday through Saturday
 - **Project** — Project A, Project B, Project C
 
-## Screenshots
-
-The screenshots below walk through the report's navigation and layout. The **Home** page serves as the landing screen, branded with the Sallah logo and navigation buttons that let users switch between **Calls Overview** and **Agent Performance**. The **Calls Overview** page summarizes center-wide metrics — Service Level, Handling Ratio, Abandon Rate, and ASA — alongside trends by month and project. The **Agent Performance** page breaks these metrics down by individual agent, with a drill-through view showing **ASA** and **Service Level** as gauge visuals when hovering over a specific data point.
-
 ### Home
 ![Home](screenshots/home.png)
 
